@@ -1,1 +1,2 @@
 Das ist meine erste Datei im Repository (ausser der README.md)
+Kaffee und zwei Marmeladenbrote
